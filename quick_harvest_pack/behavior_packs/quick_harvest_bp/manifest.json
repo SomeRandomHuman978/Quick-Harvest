@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Quick Harvest",
+    "description": "Right-click harvest for crops with seed replanting",
+    "uuid": "f3b8957d-2f2b-4780-9e31-a4fb6fcf876f",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "a2fc4a71-6d2b-4f95-b5c3-5ad95c3055ff",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": []
+}
